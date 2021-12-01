@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "2021-advent-of-code"
+version = "0.1.0"
+description = "TODO"
+authors = ["Mike Burton"]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+numpy = ">=1.21.0"
+isort = "^5.10.1"
+pydocstyle = "^6.1.1"
+pre-commit = "^2.16.0"
+
+[tool.poetry.dev-dependencies]
+black = ">=21.11b1"
+isort = "^5.10.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

@@ -2,7 +2,7 @@
 
 DOWN = 0
 UP = 1
-FORWARD = 3
+FORWARD = 2
 DIRECTION_MAP = {
     "down": DOWN,
     "up": UP,

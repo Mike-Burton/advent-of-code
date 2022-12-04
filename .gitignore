@@ -133,3 +133,5 @@ dmypy.json
 
 # No lock files
 *.lock
+
+bin

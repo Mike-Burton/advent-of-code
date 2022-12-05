@@ -2,7 +2,7 @@ Forked from: https://github.com/busser/adventofcode
 
 # Advent of Code
 
-![tests-passing](https://github.com/busser/adventofcode/actions/workflows/ci.yml/badge.svg)
+![tests-passing](https://github.com/Mike-Burton/advent-of-code/actions/workflows/ci.yml/badge.svg)
 
 [Advent of Code](https://adventofcode.com) is an Advent calendar of small
 programming puzzles for a variety of skill sets and skill levels that can be

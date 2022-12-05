@@ -4,7 +4,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/busser/adventofcode/scaffolding"
+	"github.com/Mike-Burton/advent-of-code/scaffolding"
+
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

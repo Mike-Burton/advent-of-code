@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/busser/adventofcode/helpers"
+	"github.com/Mike-Burton/advent-of-code/helpers"
 )
 
 type rucksack struct {

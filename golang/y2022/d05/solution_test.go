@@ -1,4 +1,4 @@
-package d{{ printf "%02d" .Day }}
+package d05
 
 import (
 	"log"
@@ -18,7 +18,7 @@ func ExamplePartOne() {
 	if err := PartOne(file, os.Stdout); err != nil {
 		log.Fatalf("could not solve: %v", err)
 	}
-	// Output: 👉 Write the answer here 👈
+	// Output: TLFGBZHCN
 }
 
 func ExamplePartTwo() {
@@ -31,7 +31,7 @@ func ExamplePartTwo() {
 	if err := PartTwo(file, os.Stdout); err != nil {
 		log.Fatalf("could not solve: %v", err)
 	}
-	// Output: 👉 Write the answer here 👈
+	// Output: QRQFHFWCL
 }
 
 func Benchmark(b *testing.B) {

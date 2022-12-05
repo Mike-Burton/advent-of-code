@@ -1,4 +1,4 @@
-module github.com/busser/adventofcode
+module github.com/Mike-Burton/advent-of-code
 
 go 1.19
 

@@ -1,5 +1,5 @@
-module github.com/busser/adventofcode
-// TODO github.com/Mike-Burton/advent-of-code
+module github.com/Mike-Burton/advent-of-code
+
 go 1.19
 
 require (

@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/busser/adventofcode/helpers"
+	"github.com/Mike-Burton/advent-of-code/helpers"
 )
 
 type section struct {

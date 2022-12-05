@@ -2,8 +2,9 @@ package d02
 
 import (
 	"fmt"
-	"github.com/busser/adventofcode/helpers"
 	"io"
+
+	"github.com/Mike-Burton/advent-of-code/helpers"
 )
 
 const (

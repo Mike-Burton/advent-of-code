@@ -1,6 +1,6 @@
 package main
 
-import "github.com/busser/adventofcode/cmd"
+import "github.com/Mike-Burton/advent-of-code/cmd"
 
 func main() {
 	cmd.Execute()

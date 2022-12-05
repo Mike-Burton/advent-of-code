@@ -6,7 +6,7 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/busser/adventofcode/helpers"
+	"github.com/Mike-Burton/advent-of-code/helpers"
 )
 
 // PartOne solves the first problem of day 1 of Advent of Code 2022.

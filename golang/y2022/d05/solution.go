@@ -2,11 +2,12 @@ package d05
 
 import (
 	"fmt"
-	"github.com/busser/adventofcode/helpers"
-	"github.com/busser/adventofcode/stack"
 	"io"
 	"strconv"
 	"strings"
+
+	"github.com/Mike-Burton/advent-of-code/helpers"
+	"github.com/Mike-Burton/advent-of-code/stack"
 )
 
 type rearrangement struct {

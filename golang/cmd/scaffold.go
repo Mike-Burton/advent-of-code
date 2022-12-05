@@ -5,6 +5,7 @@ import (
 	"time"
 
 	"github.com/Mike-Burton/advent-of-code/scaffolding"
+
 	"github.com/spf13/cobra"
 	"github.com/spf13/viper"
 )

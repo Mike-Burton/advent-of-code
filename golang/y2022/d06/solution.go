@@ -21,10 +21,10 @@ func PartOne(r io.Reader, w io.Writer) error {
 		return fmt.Errorf("could not read input: %w", err)
 	}
 
-	i := 3
+	i := PARTONE - 1
 	for ; i < len(chars); i++ {
 		hs := hashset.New(chars[i], chars[i-1], chars[i-2], chars[i-3])
-		if hs.Size() == 4 {
+		if hs.Size() == PARTONE {
 			break
 		}
 	}
@@ -44,7 +44,7 @@ func PartTwo(r io.Reader, w io.Writer) error {
 		return fmt.Errorf("could not read input: %w", err)
 	}
 
-	i := 13
+	i := PARTTWO - 1
 	for ; i < len(chars); i++ {
 		hs := hashset.New(
 			chars[i],
@@ -63,7 +63,7 @@ func PartTwo(r io.Reader, w io.Writer) error {
 			chars[i-13],
 		)
 
-		if hs.Size() == 14 {
+		if hs.Size() == PARTTWO {
 			break
 		}
 	}

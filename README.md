@@ -1,4 +1,5 @@
 # advent-of-code
+https://adventofcode.com/
 
 ## 2021
 * [d01 (python)](./python/y2021/day-01.py)
@@ -14,3 +15,4 @@
 * [d04 (golang)](./golang/y2022/d04/solution.go)
 * [d05 (golang)](./golang/y2022/d05/solution.go)
 * [d06 (golang)](./golang/y2022/d06/solution.go)
+* [d09 (golang)](./golang/y2022/d09/solution.go)

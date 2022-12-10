@@ -1,7 +1,7 @@
 # advent-of-code
-https://adventofcode.com/
 
 ## 2021
+https://adventofcode.com/2021
 * [d01 (python)](./python/y2021/day-01.py)
 * [d02 (python)](./python/y2021/day-02.py)
 * [d04 (python)](./python/y2021/day-04.py)
@@ -9,6 +9,7 @@ https://adventofcode.com/
 * [d14 (python)](./python/y2021/day-14.py)
 
 ## 2022
+https://adventofcode.com/2022
 * [d01 (golang)](./golang/y2022/d01/solution.go)
 * [d02 (golang)](./golang/y2022/d02/solution.go)
 * [d03 (golang)](./golang/y2022/d03/solution.go)
